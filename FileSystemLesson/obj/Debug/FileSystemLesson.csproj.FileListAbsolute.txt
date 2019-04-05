@@ -1,0 +1,7 @@
+C:\Users\ДжабашевН.CORP\source\repos\FileSystemLesson\FileSystemLesson\bin\Debug\FileSystemLesson.exe.config
+C:\Users\ДжабашевН.CORP\source\repos\FileSystemLesson\FileSystemLesson\bin\Debug\FileSystemLesson.exe
+C:\Users\ДжабашевН.CORP\source\repos\FileSystemLesson\FileSystemLesson\bin\Debug\FileSystemLesson.pdb
+C:\Users\ДжабашевН.CORP\source\repos\FileSystemLesson\FileSystemLesson\obj\Debug\FileSystemLesson.csprojAssemblyReference.cache
+C:\Users\ДжабашевН.CORP\source\repos\FileSystemLesson\FileSystemLesson\obj\Debug\FileSystemLesson.csproj.CoreCompileInputs.cache
+C:\Users\ДжабашевН.CORP\source\repos\FileSystemLesson\FileSystemLesson\obj\Debug\FileSystemLesson.exe
+C:\Users\ДжабашевН.CORP\source\repos\FileSystemLesson\FileSystemLesson\obj\Debug\FileSystemLesson.pdb
